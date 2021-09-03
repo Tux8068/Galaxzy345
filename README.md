@@ -14,7 +14,7 @@ I am AtomDev, a self-taught fullstack web developer, who has been studying all s
 <br> 
 
 ## ✅ My Grades 
-![AtomDev Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atom345&langs_count=8)](https://github.com/Atom345)![AtomDev's Stats](https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=omni) 
+[![AtomDev Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atom345&langs_count=8&show_icons=true&theme=omni)](https://github.com/Atom345)![AtomDev's Stats](https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=omni) 
 
 <br>
 
