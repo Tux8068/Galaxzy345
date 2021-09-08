@@ -13,8 +13,12 @@ I am AtomDev, a self-taught fullstack web developer, who has been studying all s
 
 <br> 
 
-## ✅ My Grades 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=tokyonight" />
+## ✅ My Stats
+<p align = "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Atom345&theme=material-palenight">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=tokyonight" />
+</p>
 
 <br>
 
