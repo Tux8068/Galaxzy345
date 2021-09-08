@@ -2,9 +2,15 @@
 
 ## 👋 Hey there! 
 
-![](https://komarev.com/ghpvc/?username=Atom345&color=blueviolet) 
+![](https://komarev.com/ghpvc/?username=Atom345&color=blueviolet) ![](https://img.shields.io/github/followers/Atom345?style=social) ![](https://img.shields.io/github/stars/Atom345?style=social)
 
-I am AtomDev, a self-taught fullstack web developer, who has been studying all sorts of things related to computer coding. I first learned code when I was eleven, and since then, I have developed several open-soucre projects in various languages. I prefer to use Python as my primary language. 
+```diff
+👴 Age: 16.
+📬 Contacts: Not yet available.
+🖥️ Favorite Coding Lang: Python.
+👾 Wants to learn: Machine Learning and AI.
+💼 Experience: 4-5 years.
+```
 
 <br> 
 
@@ -14,13 +20,8 @@ I am AtomDev, a self-taught fullstack web developer, who has been studying all s
 <br> 
 
 ## ✅ My Stats
-<p align = "center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Atom345&theme=material-palenight">
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Atom345&theme=material-palenight"></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=tokyonight" />
-</p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=tokyonight" /></p>
 
-<br>
-
-## 📮 Contacts <a href = "#">
-<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atom345&layout=compact&theme=blueberry" /></p>
