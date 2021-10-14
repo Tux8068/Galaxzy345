@@ -1,4 +1,4 @@
-<img src="https://github.com/Atom345/Atom345/blob/main/atom-header.png" /> 
+<img src="https://github.com/Atom345/Atom345/blob/main/header.png" /> 
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Atom345&data=followers,repositories,stars,commits"></p>
 
