@@ -1,6 +1,6 @@
-<img src="https://github.com/Atom345/Atom345/blob/main/header.png" /> 
+<img src="https://github.com/Galaxzy345/Galaxzy345/blob/main/header.png" /> 
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Atom345&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Galaxzy345&data=followers,repositories,stars,commits"></p>
 
 ```diff 
 💀 Age: 16.
@@ -24,8 +24,8 @@
 <br> 
 
 ## 😴 The Boring Stuff
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Atom345&theme=material-palenight"></p>
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Galaxzy345&theme=material-palenight"></p>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Atom345&show_icons=true&theme=tokyonight" /></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Galaxzy345&show_icons=true&theme=tokyonight" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atom345&layout=compact&theme=blueberry" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxzy345&layout=compact&theme=blueberry" /></p>
