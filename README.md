@@ -4,7 +4,7 @@
 
 ```diff 
 💀 Age: 16.
-📬 Contacts: Not yet available.
+📬 Contacts: https://discord.gg/q83bFCuCjt.
 🖥️ Favorite Coding Lang: Python.
 👾 Wants to learn: Machine Learning and AI.
 💼 Experience: 4-5 years.
