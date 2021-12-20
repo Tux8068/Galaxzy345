@@ -12,7 +12,7 @@
 🌳 Hobbies: Mountain Biking, Tennis, Swimming.
 
 📜 About me: I first started to learn to code when I was around eleven. 
-   Fast forward to now, and I am a fullstack web developer currently learning cybersecurity and exploitation. 
+   Fast forward to now, and I am a fullstack web developer currently learning cybersecurity. 
    Some things that intrest me are space and machine learning. Feel free to contact me anytime!
 ```
   
